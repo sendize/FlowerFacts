@@ -11,7 +11,7 @@ const {
 const f_photosynthesis = [
     "Some facts about flowers are that flowers get their food from sunlight, water, and minerals in the soil; flowers are the reproductive parts of a plant, and plants make their own food by photosynthesis.",
     "Plants can photosynthesize due to cells called chloroplasts that contain chlorophyll; this is what makes plants green. Sun strikes the chloroplasts and combines with carbon dioxide that plants get from their leaves, and water that plants get through their roots, to produce sugar, or glucose. This is the plant's food, and this gives the plant energy to grow and produce flowers.",
-    "Plants take in carbon dioxide, or CO 2 ,through little holes in their leaves, which are called stomata. They then produce and release oxygen through the stomata. Plants and animals were meant to live together! Animals need the oxygen that plants put out, and plants need the carbon dioxide that animals put out.",
+    "Plants take in carbon dioxide, or CO 2, through little holes in their leaves, which are called stomata. They then produce and release oxygen through the stomata. Plants and animals were meant to live together! Animals need the oxygen that plants put out, and plants need the carbon dioxide that animals put out.",
     "Sometimes people add fertilizer, or plant food, to give plants extra minerals and nutrients so that they can grow better. Fertilizer does not take the place of sunlight and water.",
     "Without sunlight and water, plants will die.",
 ]
